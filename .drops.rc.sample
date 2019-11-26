@@ -1,0 +1,5 @@
+{
+    "dds_url": "http://example.com/dds/rest",
+    "user": "admin",
+    "password": "password"
+}
